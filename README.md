@@ -2,4 +2,4 @@ Fast Windows Folder and File Size scanner that scans a given root folder and dis
 
 The results are updated dynamically during the scan.
 
-Written in C# using VS2026.
+A Windows Forma app written in C# using VS2026.
